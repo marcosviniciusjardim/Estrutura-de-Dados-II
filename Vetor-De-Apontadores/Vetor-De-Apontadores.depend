@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511736953 source:c:\users\cliente\desktop\developer\codeblocks\vetor-de-apontadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vetor-De-Apontadores.h"
+
+1511736940 c:\users\cliente\desktop\developer\codeblocks\vetor-de-apontadores\vetor-de-apontadores.h
+
+1511736948 source:c:\users\cliente\desktop\developer\codeblocks\vetor-de-apontadores\vetor-de-apontadores.c
+	<stdio.h>
+	<stdlib.h>
+	"Vetor-De-Apontadores.h"
+

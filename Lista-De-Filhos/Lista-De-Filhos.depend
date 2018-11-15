@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511736860 source:c:\users\cliente\desktop\developer\codeblocks\lista-de-filhos\lista-de-filhos.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista-De-Filhos.h"
+
+1511736828 c:\users\cliente\desktop\developer\codeblocks\lista-de-filhos\lista-de-filhos.h
+
+1511736865 source:c:\users\cliente\desktop\developer\codeblocks\lista-de-filhos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista-De-Filhos.h"
+

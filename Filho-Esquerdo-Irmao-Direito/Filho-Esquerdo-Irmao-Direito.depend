@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511736408 source:c:\users\cliente\desktop\developer\codeblocks\filho-esquerdo-irmao-direito\filho-esquerdo-irmao-direito.c
+	<stdio.h>
+	<stdlib.h>
+	"Filho-Esquerdo-Irmao-Direito.h"
+
+1511736370 c:\users\cliente\desktop\developer\codeblocks\filho-esquerdo-irmao-direito\filho-esquerdo-irmao-direito.h
+
+1511736400 source:c:\users\cliente\desktop\developer\codeblocks\filho-esquerdo-irmao-direito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Filho-Esquerdo-Irmao-Direito.h"
+
